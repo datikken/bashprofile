@@ -1,0 +1,6 @@
+alias st="git status"
+alias aa="git add ."
+alias ctm="git commit -m"
+alias pp="git push"
+alias stash="git stash"
+alias add="git add"
